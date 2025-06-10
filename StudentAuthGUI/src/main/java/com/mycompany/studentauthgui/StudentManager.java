@@ -48,7 +48,7 @@ public class StudentManager {
                 }
             }
         } catch (IOException e) {
-            //file might not exist yet - no problem
+            
         }
         return false;
     }
