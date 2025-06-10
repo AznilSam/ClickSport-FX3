@@ -1,0 +1,7 @@
+2419091,azniladnin,Aznil,muhammadaznil@gmail.com,0123456789,Kulliyyah of Information and Communication Technology (KICT)
+2410001,azniladnin,Test1,test1@gmail.com,0123456789,Ahmad Ibrahim Kulliyyah of Laws (AIKOL)
+2410002,azniladnin,Test2,test2@gmail.com,0125678901,Kulliyyah of Economics and Management Sciences (KENMS)
+1,1,test,test,12,Kulliyyah of Information and Communication Technology (KICT)
+
+2410003,azniladnin,Test3,muhammadaznil@gmail.com,0125678934,Kulliyyah of Education (KOED)
+2410004,azniladnin,Test4,muhammadaznil@gmail.com,0129848593,Kulliyyah of Pharmacy (KOP)

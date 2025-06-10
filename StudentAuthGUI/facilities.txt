@@ -1,0 +1,20 @@
+1,Futsal Court,10,5.0,08:00,22:00,true,com/mycompany/facilitybooking/images/futsaloutdoor1.jpeg
+2,Futsal Court 2,10,4.0,08:00,22:00,true,com/mycompany/facilitybooking/images/futsaloutdoor2.jpeg
+3,Futsal Court 3,10,4.0,08:00,22:00,true,com/mycompany/facilitybooking/images/futsaloutdoor3.jpeg
+4,Futsal Court 4 (Indoor),10,8.0,08:00,22:00,true,com/mycompany/facilitybooking/images/futsal.jpg
+5,Badminton Court,4,4.0,09:00,21:00,true,com/mycompany/facilitybooking/images/badmintonoutdoor.jpg
+6,Badminton Court (Indoor),4,7.0,09:00,21:00,true,com/mycompany/facilitybooking/images/badminton.jpeg
+7,Badminton Court 2 (Indoor),4,7.0,09:00,21:00,true,com/mycompany/facilitybooking/images/badminton2.jpg
+8,Swimming Pool,20,10.0,06:00,22:00,true,com/mycompany/facilitybooking/images/swimmingpool.jpg
+9,Volleyball Court (Indoor),12,8.0,08:00,22:00,true,com/mycompany/facilitybooking/images/volleyball.jpg
+10,Netball Court (Indoor),14,6.0,08:00,22:00,true,com/mycompany/facilitybooking/images/netballcourtindoor.jpg
+11,Netball Court 2 (Indoor),14,6.0,08:00,22:00,true,com/mycompany/facilitybooking/images/netballcourtindoor2.jpg
+12,Netball Court 3,14,4.0,08:00,22:00,true,com/mycompany/facilitybooking/images/netballcourt.jpg
+13,Sepak Takraw Court,6,4.0,08:00,22:00,true,com/mycompany/facilitybooking/images/sepaktakraw.jpg
+14,Sepak Takraw Court 2,6,4.0,08:00,22:00,true,com/mycompany/facilitybooking/images/sepaktakraw2.jpg
+15,Handball Court,14,4.0,08:00,22:00,true,com/mycompany/facilitybooking/images/handball.jpg
+16,Hockey Turf,50,10.0,06:00,22:00,true,com/mycompany/facilitybooking/images/hockey.jpg
+17,Football Turf,50,10.0,06:00,22:00,true,com/mycompany/facilitybooking/images/football.jpg
+18,Rugby Field,50,10.0,06:00,22:00,true,com/mycompany/facilitybooking/images/rugby.jpg
+19,Basketball Court,12,7.0,08:00,22:00,true,com/mycompany/facilitybooking/images/basketball.jpeg
+20,Tennis Court,2,8.0,08:00,22:00,true,com/mycompany/facilitybooking/images/tennis.jpg
